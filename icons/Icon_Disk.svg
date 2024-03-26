@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <rect width="80" height="80" style="fill: #087ebf; stroke-width: 0px;"/>
+  <rect x="15" y="10" width="50" height="60" rx="1" ry="1" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <circle cx="20" cy="15" r="1" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <circle cx="60" cy="15" r="1" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <circle cx="20" cy="65" r="1" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <circle cx="60" cy="65" r="1" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <circle cx="40" cy="32.5" r="17.5" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <circle cx="40" cy="32.5" r="5" style="fill: #fff; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <path d="m37.45,41.54l-6.72,17.66c-.27.7-1.09,1-1.74.63l-5.82-3.23c-.68-.38-.84-1.29-.33-1.87l12.55-14.43c.9-1.03,2.55-.04,2.07,1.24Z" style="fill: #fff; stroke-width: 0px;"/>
+</svg>
