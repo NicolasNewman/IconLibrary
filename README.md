@@ -12,5 +12,6 @@ Repository of SVG icons I have created to represent platform-independent cloud r
     <img width="80" src="./icons/Icon_Server.svg" />
     <img width="80" src="./icons/Icon_Disk.svg" />
     <img width="80" src="./icons/Icon_Internet.svg" />
+    <img width="80" src="./icons/Icon_Cloud.svg" />
     <img width="80" src="./icons/Icon_Unknown.svg" />
 </div>
